@@ -1,0 +1,18 @@
+{
+	"name": "golang-basic-live-code-1.1",
+	"course": "Dasar Pemrograman Backend",
+	"title": "Live Coding - Geometry Calculator",
+	"order": 1,
+	"topics": [
+		"golang",
+		"basic data types",
+		"variables",
+		"conditions"
+	],
+	"image": "golang-basic",
+	"command": "go test",
+	"totalTestCase": 8,
+	"metadata": {
+		"type": "live-coding"
+	}
+}

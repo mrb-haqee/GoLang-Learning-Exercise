@@ -1,0 +1,19 @@
+{
+	"name": "golang-basic-live-code-3.1",
+	"course": "Dasar Pemrograman Backend",
+	"title": "Live Coding - LearnlyApp",
+	"order": 100,
+	"topics": [
+		"golang",
+		"struct",
+		"interface",
+		"error handling",
+		"package import"
+	],
+	"image": "golang-basic",
+	"command": "go test",
+	"totalTestCase": 5,
+	"metadata": {
+		"type": "live-coding"
+	}
+}

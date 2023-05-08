@@ -1,0 +1,18 @@
+{
+	"name": "golang-basic-live-code-1.2",
+	"course": "Dasar Pemrograman Backend",
+	"title": "Live Coding - Kalkulator Konversi Satuan Panjang",
+	"order": 2,
+	"topics": [
+		"golang",
+		"basic data types",
+		"variables",
+		"conditions"
+	],
+	"image": "golang-basic",
+	"command": "go test",
+	"totalTestCase": 16,
+	"metadata": {
+		"type": "live-coding"
+	}
+}

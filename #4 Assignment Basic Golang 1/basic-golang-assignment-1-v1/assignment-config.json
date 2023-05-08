@@ -1,0 +1,15 @@
+{
+	"name": "basic-golang-assignment-1",
+	"course": "Dasar Pemrograman Backend",
+	"title": "Student Portal 1",
+	"order": 1,
+	"topics": [
+		"golang"
+	],
+	"image": "golang-basic",
+	"command": "go test",
+	"totalTestCase": 15,
+	"metadata": {
+		"type": "assignment"
+	}
+}

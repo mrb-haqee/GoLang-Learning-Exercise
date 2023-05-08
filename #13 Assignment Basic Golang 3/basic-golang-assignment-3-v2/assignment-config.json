@@ -1,0 +1,24 @@
+{
+	"name": "basic-golang-assignment-3",
+	"course": "Dasar Pemrograman Backend",
+	"title": "Student Portal 3",
+	"order": 3,
+	"topics": [
+		"golang",
+		"struct",
+		"interface",
+		"function",
+		"pointer",
+		"array",
+		"slice",
+		"map",
+		"condition",
+		"loop"
+	],
+	"image": "golang-basic",
+	"command": "go test",
+	"totalTestCase": 14,
+	"metadata": {
+		"type": "final-project"
+	}
+}
