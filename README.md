@@ -1,4 +1,4 @@
-# GoLang Learning Experience
+# GoLang Learning Exercise
 
 ## Halo Teman-teman 👋
 
@@ -6,8 +6,20 @@
 
 Repository ini merupakan tugas-tugas yang telah saya kerjakan di **Ruangguru CAMP** selama mengikut _Studi Independent Batch 4_. Pada Repository ini berisi Latihan-latihan Seperti:
 
-- Latihan Condition
-- Latihan Looping
-- Latihan Function
+- Exercise Condition
+- Exercise Looping
+- Exercise Function
+- Exercise Pointer
+- Exercise Array and Slice
+- Exercise Slice Multidimensional
+- Exercise Map
+- Exercise Struct
+- Exercise Interface/any
+- Exercise Package Import
+- Exercise I/O File
+- Exercise Golang JSON
+- Exercise HTTP Client
+- Exercise HTTP Server
+- Exercise Concurrency
 
 Dan juga membuat beberapa Program sederhana🎉
