@@ -1,0 +1,17 @@
+{
+	"name": "golang-lanjutan-assignment-1",
+	"course": "Pemrograman Backend Lanjutan",
+	"title": "Student Portal 4",
+	"order": 100,
+	"topics": [
+		"golang",
+		"I/O",
+		"net/http"
+	],
+	"image": "golang-basic",
+	"command": "go test",
+	"totalTestCase": 11,
+	"metadata": {
+		"type": "assignment"
+	}
+}

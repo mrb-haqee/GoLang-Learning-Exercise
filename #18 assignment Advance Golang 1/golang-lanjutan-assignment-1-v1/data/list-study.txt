@@ -1,0 +1,15 @@
+TI_Teknik Informatika
+TK_Teknik Komputer
+SI_Sistem Informasi
+MI_Manajemen Informatika
+TS_Teknik Sipil
+AK_Akuntansi
+MK_Manajemen
+EK_Ekonomi
+PS_Psikologi
+SA_Sastra Inggris
+SB_Sastra Indonesia
+SK_Sastra Korea
+SM_Sastra Mandarin
+DKV_Desain Komunikasi Visual
+KD_Kedokteran
