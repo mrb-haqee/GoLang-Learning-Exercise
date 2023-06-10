@@ -21,5 +21,7 @@ Repository ini merupakan tugas-tugas yang telah saya kerjakan di **Ruangguru CAM
 - Exercise HTTP Client
 - Exercise HTTP Server
 - Exercise Concurrency
+- Exercise Database with PostgreSQL
+- Exercise GORM
 
 Dan juga membuat beberapa Program sederhana🎉
